@@ -1,7 +1,8 @@
 body{
 background-color: black;
+  color:white;
 }
-.other a{
+.others a{
    border: solid white 2px;
    marging: 4px;
    border-radius: 4px;
