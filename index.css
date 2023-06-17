@@ -1,0 +1,11 @@
+body{
+background-color: black;
+}
+.other a{
+   border: solid white 2px;
+   marging: 4px;
+   border-radius: 4px;
+   background-color: white;
+   color: black;
+  text-decolation: none;
+}
